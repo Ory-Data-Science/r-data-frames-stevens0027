@@ -5,10 +5,17 @@ number_of_birds <- c(28, 32, 1, 0, 10, 22, 30, 19, 145, 27,
                      102, 273, 600, 10, 11)
 
 length(number_of_birds)
-print("83 birds were counted")
-sum(number_of_birds)ed
-print("11 birds were count")
+#[1] 61
+number_of_birds[42:42]
+#[1] 83
+last(number_of_birds)
+#[1] 11
+sum(number_of_birds)
+#[1] 4366
 min(number_of_birds)
+#[1] 0
 max(number_of_birds)
+#[1] 900
 mean(number_of_birds)
+#[1] 71.57377
       
