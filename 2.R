@@ -1,8 +1,3 @@
-#Exericse1
-print(2-10)
-print(3*5)
-print(9/2)
-print(5-3*2)
-print((5-3)*2)
-print(4**2)
-print(8/2**2)
+mass_kg <- 3.5
+mass_lb <-mass_kg/2.2046
+print(mass_lb)
