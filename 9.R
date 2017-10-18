@@ -1,0 +1,5 @@
+shrubs <- read.csv("shrub-dimensions-labeled.csv")
+shrubs$length
+# [1] 2.2 2.1 2.7 3.0 3.1 2.5 1.9 1.1 3.5 2.9
+shrubs$length*height*width
+# [1] 27.456 35.112  8.910 20.250 38.440 21.000 15.390  1.265 52.500 25.056
